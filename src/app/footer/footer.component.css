@@ -1,0 +1,11 @@
+.footer
+{
+    left: 0;
+    width: 100%;
+    background-color: black;
+    color:rgb(227, 227, 240);
+    text-align: center;
+}
+p i {
+    padding:15px;
+}
